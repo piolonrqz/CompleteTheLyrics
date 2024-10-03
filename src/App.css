@@ -84,19 +84,19 @@
 
 /* Button background colors */
 .first-singer {
-  background-color: #b19cd9;
+  background-color: #c5280c;
 }
 
 .second-singer {
-  background-color: #98fb98;
+  background-color: #1a2bc0;
 }
 
 .third-singer {
-  background-color: #add8e6;
+  background-color: #338330;
 }
 
 .fourth-singer {
-  background-color: #ffb6c1;
+  background-color: #ce8a0d;
 }
 
 .input-container {
@@ -126,19 +126,19 @@
 
 /* Lyric background colors based on singer */
 .lyric-entry.first-singer {
-  background-color: #b19cd9;
+  background-color: #c5280c;
 }
 
 .lyric-entry.second-singer {
-  background-color: #98fb98;
+  background-color: #1a2bc0;
 }
 
 .lyric-entry.third-singer {
-  background-color: #add8e6;
+  background-color: #338330;
 }
 
 .lyric-entry.fourth-singer {
-  background-color: #ffb6c1;
+  background-color: #ce8a0d;
 }
 
 .lyric-entry {
